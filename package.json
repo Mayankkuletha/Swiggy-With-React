@@ -1,7 +1,6 @@
 {
   "name": "projectswiggy",
   "version": "1.0.0",
- 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +13,8 @@
     "parcel": "^2.16.4",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
+    "react-router": "^7.13.1",
+    "react-router-dom": "^6.30.3",
     "tailwindcss": "^4.2.1"
   }
 }
